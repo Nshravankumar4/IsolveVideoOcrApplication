@@ -1,1 +1,1 @@
-# IsolveVideoOcrApplication
+# VideoOCRApplication
